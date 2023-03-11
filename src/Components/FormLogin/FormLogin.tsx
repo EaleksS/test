@@ -1,4 +1,4 @@
-import { Input } from '../UiKit/Input/Input';
+import Input  from '../UiKit/Input/Input';
 import Button from '../UiKit/Button/Button';
 import { routerConstants } from '../../Constants/RouterConstants';
 import style from './FormLogin.module.scss';

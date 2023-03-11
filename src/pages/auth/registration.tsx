@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import styles from '../../styles/Registration.module.scss';
 import Button from '@/Components/UiKit/Button/Button';
 import CustomCheckbox from '@/Components/UiKit/CheckBox/CheckBox';
-import { Input } from '@/Components/UiKit/Input/Input';
+import  Input  from '@/Components/UiKit/Input/Input';
 import { routerConstants } from '@/Constants/RouterConstants';
 import Link from 'next/link';
 import { Layout } from '../Layout';
