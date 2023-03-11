@@ -1,9 +1,9 @@
 {
-  "name": "test",
+  "name": "nextjs-project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 7070",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
